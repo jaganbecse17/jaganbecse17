@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jaganbecse17
-- 👀 I’m interested in technology
-- 🌱 I’m currently learning angular
+- 👋 Hi, I’m JAGAN
+- 👀 I’m interested in Technology
+- 🌱 I Love Technology
 - 📫 How to reach me @jagan_s Instagram 
 
 <!---
