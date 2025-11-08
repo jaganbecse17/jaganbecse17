@@ -34,8 +34,8 @@
 ---
 
 ### 🧰 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vue,react,typescript,nodejs,nestjs,aws,git,docker,mongodb,postgres" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,vue,typescript,nodejs,nestjs,aws,git,docker,mongodb,postgres,redis" />
 </p>
 
 ---
