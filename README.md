@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Jagan</h1>
+<h1 align="center"> I'm Jagan Sekar</h1>
 <h3 align="center">A passionate Full Stack & Mobile App Developer</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,vue,typescript,nodejs,nestjs,aws,git,docker,mongodb,postgres,redis" />
+</p>
 <p align="center">💭 Dreaming of launching my own startup someday (probably after one more cup of coffee ☕) <p>
   
 ---
@@ -10,7 +13,7 @@
 - 💡 Specializing in **Frontend, Mobile, and Backend** development  
 - ⚙️ Tech Stack: **React, React Native, Vue.js, NestJS, Node.js, TypeScript, AWS**  
 - 🌱 Currently exploring **scalable architecture & DevOps practices**  
-- 💬 Ask me about **building enterprise-grade apps**  
+- 💬 Ask me about **building enterprise-grade apps**
 
 ---
 
@@ -29,14 +32,6 @@
 - 🔄 I believe in **learning → building → sharing → improving** — and repeating the cycle!  
 
 > 🗂️ **Explore my public repos** to see how I learn and grow as a developer.
-
-
----
-
-### 🧰 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,vue,typescript,nodejs,nestjs,aws,git,docker,mongodb,postgres,redis" />
-</p>
 
 ---
 
